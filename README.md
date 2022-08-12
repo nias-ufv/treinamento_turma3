@@ -1,6 +1,7 @@
 # Notebooks do Treinamento
-Este repositório será destinado para a entregas dos notebooks produzidos pelos alunos da terceira turma conforme forem avançando na apostila
-* Cada aluno deverá criar uma branch individual, com seu nome, para realizar o upload de seus códigos
+Este repositório será destinado para a entregas dos notebooks produzidos pelos alunos da terceira turma conforme forem avançando na apostila.
+* Cada aluno deverá criar um fork individual, para realizar o upload de seus códigos para a suas respectivas branches.
+  > - [TUTORIAL: FLUXO DE CONTRIBUIÇÃO NO GITHUB](https://github.com/NIAS-IA-UFV/treinamento_turma3/issues/3)
 
 ## Links para os datasets:
   >- COVID-19 Dataset (Caps 4 e 5): https://www.kaggle.com/imdevskp/corona-virus-report
