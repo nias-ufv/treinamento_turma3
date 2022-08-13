@@ -12,3 +12,4 @@ Este repositório será destinado para a entregas dos notebooks produzidos pelos
   >- Titanic Competition (Cap 6 e Unidade 2): https://www.kaggle.com/c/titanic/data
   >- Weather in Szeged (Cap 10): https://www.kaggle.com/budincsevity/szeged-weather
   >- CIFAR 10 (Cap 11): https://www.cs.toronto.edu/~kriz/cifar.html
+teste
