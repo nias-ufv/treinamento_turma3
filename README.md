@@ -4,7 +4,7 @@ Este repositório será destinado para a entregas dos notebooks produzidos pelos
 
 * Cada aluno deverá criar um fork individual, para realizar o upload de seus códigos para a suas respectivas branches.
   > - [TUTORIAL: FLUXO DE CONTRIBUIÇÃO NO GITHUB](https://github.com/NIAS-IA-UFV/treinamento_turma3/issues/3)
-* Caso sua branch ainda não exista, que [dsv-pablo](https://github.com/dsv-pablo) ou [Alexandre-Caldeira](https://github.com/Alexandre-Caldeira) vão resolver!
+* Caso sua branch ainda não exista, siga o tutorial do link abaixo que [dsv-pablo](https://github.com/dsv-pablo) ou [Alexandre-Caldeira](https://github.com/Alexandre-Caldeira) vão resolver!
   > - [LINK PARA CRIAR ISSUE SOLICITANDO CRIAÇÃO DE BRANCH](https://github.com/NIAS-IA-UFV/treinamento_turma3/issues/new?assignees=Alexandre-Caldeira,dsv-pablo&labels=branch%20pendente&title=Branch%20Pendente%3A%20SEU-NOME-DE-USUARIO-GITHUB-AQUI)
 
 ## Links para os datasets:
